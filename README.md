@@ -3,7 +3,7 @@
 A utility for rapidly deploying PHP v8.0 for testing against your existing projects.
 
 Includes: 
- * PHP v8.0 beta 3
+ * PHP v8.0 beta 4 
  * Extra extensions:
    * bcmath
    * curl
