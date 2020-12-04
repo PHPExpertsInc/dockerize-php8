@@ -3,7 +3,7 @@
 A utility for rapidly deploying PHP v8.0 for testing against your existing projects.
 
 Includes: 
- * PHP v8.0 beta 4 
+ * PHP v8.0.0
  * Extra extensions:
    * bcmath
    * curl
@@ -14,6 +14,7 @@ Includes:
    * mysqlnd
    * pdo_mysql
    * pdo_pgsql
+   * xdebig
    * xml
    * xmlreader
    * xmlwriter
@@ -41,6 +42,10 @@ Ensure that your profile PATH includes `./vendor/bin` and that it takes priority
 # Running
 
 Run as normal.
+
+If you want xdebug support, do this:
+
+    export PHP_VERSION=8.0-debug
 
 If you want to revert back to your built-in version of PHP, do this:
 
