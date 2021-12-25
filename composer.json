@@ -1,6 +1,7 @@
 {
     "name": "phpexperts/dockerize-php8",
-    "description": "The quickest and easiest way to run and test your apps against PHP v8!",
+    "description": "The quickest and easiest way to run and test your apps against PHP v8! UPDATE: Everything is now in phpexperts/dockerize.",
+    "abandoned": "phpexperts/dockerize",
     "keywords": [
         "php 8",
         "docker",

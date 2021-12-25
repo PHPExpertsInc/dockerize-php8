@@ -1,5 +1,9 @@
 # Dockerize PHP v8.0!
 
+### **[Update 2021-12-24] This project is abandoned. [My Dockerize PHP project](https://github.com/PHPExpertsInc/dockerize-php) now contains all of this project's functionality, and a lot more.
+
+----
+
 A utility for rapidly deploying PHP v8.0 for testing against your existing projects.
 
 Includes: 
